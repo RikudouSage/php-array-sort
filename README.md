@@ -9,7 +9,7 @@ and return arrays. Or throw `\rikudou\ArraySortException`.
 
 For a better control the sorting methods are chained by the type.
 
-Example:
+**Example:**
 
 ```php
 <?php
