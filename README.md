@@ -5,6 +5,10 @@ Simple class for sorting arrays, it's just a wrapper around built-in php functio
 All sorting methods are performed on a copy of array, they don't modify the original array
 and return arrays. Or throw `\rikudou\ArraySortException`.
 
+## Installation
+
+Use composer: `composer require rikudou/array-sort`
+
 ## Usage
 
 For a better control the sorting methods are chained by the type.
