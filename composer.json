@@ -1,0 +1,26 @@
+{
+  "name": "rikudou/array-sort",
+  "type": "library",
+  "description": "Class for sorting arrays",
+  "homepage": "https://github.com/RikudouSage/php-array-sort",
+  "keywords": [
+    "array",
+    "sort",
+    "sorting"
+  ],
+  "license": "WTFPL",
+  "authors": [
+    {
+      "name": "Dominik Chrastecky",
+      "email": "dominik@chrastecky.cz"
+    }
+  ],
+  "require": {
+    "php": ">=7"
+  },
+  "autoload": {
+    "psr-4": {
+      "rikudou\\": "src/"
+    }
+  }
+}
