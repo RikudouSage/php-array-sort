@@ -52,6 +52,7 @@ namespace rikudou;
  * @method array naturalSort();
  * @method array customSort(callable $compareFunction);
  * @method array random();
+ * @method array shuffle();
  */
 class ArraySort {
 
